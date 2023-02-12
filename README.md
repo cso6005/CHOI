@@ -26,12 +26,8 @@ electronic and electrical engineering
   
 **Back**
   
-![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white") <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"> 
-  
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"> 
+![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white") <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"> 
 
 **Back - Details**
   
@@ -57,7 +53,7 @@ electronic and electrical engineering
   
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpMyAdmin&logoColor=white"> <img src="https://img.shields.io/badge/DBeaver-A5915F?style=flat&logo=DBeaver&logoColor=white">
   
-<img src="https://img.shields.io/badge/Elastic-005571?style=flat&logo=Elastic&logoColor=white"> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=ElasticSearch&logoColor=white"> <img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=Logstash&logoColor=white"> <img src="https://img.shields.io/badge/JavaRestHighLevelClient-005571?style=flat&logo=A&logoColor=white">
+<img src="https://img.shields.io/badge/Elastic-005571?style=flat&logo=Elastic&logoColor=white"> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=ElasticSearch&logoColor=white"> <img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=Logstash&logoColor=white"> <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white">  <img src="https://img.shields.io/badge/JavaRestHighLevelClient-005571?style=flat&logo=A&logoColor=white"> 
   
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=Apache Kafka&logoColor=white">
 <img src="https://img.shields.io/badge/Zookeeper-231F20?style=flat&logo=A&logoColor=white">
@@ -80,9 +76,7 @@ electronic and electrical engineering
   
 <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=FileZilla&logoColor=white"> <img src="https://img.shields.io/badge/Putty-283274?style=flat&logo=Putty&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
   
-<img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=RaspberryPi&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">  <img src="https://img.shields.io/badge/AutoCad-0696D7?style=flat&logo=Autodesk&logoColor=white">  <img src="https://img.shields.io/badge/verilog-00BFFF?style=flat&logo=&logoColor=white"> <img src="https://img.shields.io/badge/TCad-F08080?style=flat&logo=&logoColor=white"> 
-  
-<img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white">  <img src="https://img.shields.io/badge/MicrosoftOffice-D83B01?style=flat&logo=MicrosoftOffice&logoColor=white">
+<img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=RaspberryPi&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"> <img src="https://img.shields.io/badge/AutoCad-0696D7?style=flat&logo=Autodesk&logoColor=white"> <img src="https://img.shields.io/badge/TCad-F08080?style=flat&logo=&logoColor=white"> 
   
  
   
@@ -104,10 +98,11 @@ electronic and electrical engineering
 
 ----------
 
-## 📱Social
-<a href="https://cso6005.tistory.com"> <img src="https://img.shields.io/badge/🤍 Tistory-000000?style=flat&logo=tistory&logoColor=white"> </a>
+## 📕 TIL 
+<img src="https://img.shields.io/badge/GitHub TIL-181717?style=flat&logo=GitHub&logoColor=white"> </a>
+<a href="https://cso6005.tistory.com"> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"> </a>
 <a href="https://blog.naver.com/cso6005"> <img src="https://img.shields.io/badge/NeverBlog-03C75A?style=flat&logo=Naver&logoColor=white"> </a>
-<a href="https://cssoyoung67@gmail.com">
+<a href="https://cso6005.tistory.com">
   
 ----------
 
