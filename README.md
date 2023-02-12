@@ -90,7 +90,7 @@ electronic and electrical engineering
 ---------
 
 ## **🌻Project**
-<a href="https://github.com/cso6005/ToyProject/blob/master/5_ETL_project/contents.md"> (4인팀 프로젝트   2022.09 - 2022.11) ETL을 적용한 covid-19 현황 안내 웹 애플리케이션 </a>
+<a href="https://github.com/cso6005/ToyProject/blob/master/5_ETL_project/contents.md" style="text-decoration: none;"> (4인팀 프로젝트   2022.09 - 2022.11) ETL을 적용한 covid-19 현황 안내 웹 애플리케이션 </a>
   
 <a href="https://github.com/cso6005/Deep-Story"> (4인팀 프로젝트 2022.10.13 ~ 2022.11.11) 딥러닝 GAN 을 이용한 그림 일기 블로그 웹 애플리케이션 </a>
   
@@ -105,7 +105,7 @@ electronic and electrical engineering
 
 
 ## 📕 TIL 
-<img src="https://img.shields.io/badge/GitHub TIL-181717?style=flat&logo=GitHub&logoColor=white"> </a>
+<a href="https://github.com/cso6005/TIL-Troubleshooting"> <img src="https://img.shields.io/badge/GitHub TIL-181717?style=flat&logo=GitHub&logoColor=white"> </a>
 <a href="https://cso6005.tistory.com"> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"> </a>
 <a href="https://blog.naver.com/cso6005"> <img src="https://img.shields.io/badge/NeverBlog-03C75A?style=flat&logo=Naver&logoColor=white"> </a>
 <a href="https://cso6005.tistory.com">
