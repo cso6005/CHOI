@@ -19,7 +19,8 @@
 2017.03 ~ 2022.02 Dankook unvi. bachelor 
 
 electronic and electrical engineering
-
+  
+  
 ## **📒STACKS**
 
 ### **🌱 Skill & Platform 🌱**
@@ -87,18 +88,52 @@ electronic and electrical engineering
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
 
 
----------
+  
+## **🎈 Activity**
+  
+### Open SIAT Mate 교육 멘토
+  
+  2022.11.07 - 2022.12.18
+
+SK 행복한 학교재단 주관 'Open SIAT Mate' 에 멘토로 참여함으로써,
+  
+IT 전문가로 진로를 희망하는 청년 장애인 교육생을 위해 교육 멘토링을 진행.
+
+## 📖 Class
+
+### 플레이데이터 빅데이터 엔지니어 부트 캠프 
+  
+<a href="https://cso6005.tistory.com/category/AI_STUDY"> <img src="https://img.shields.io/badge/📝 공부 기록-181717?style=flat&logo=G&logoColor=white"> </a> <a href="https://github.com/cso6005/Python_AI_study"> <img src="https://img.shields.io/badge/📝 AI 수업 실습-181717?style=flat&logo=G&logoColor=white"> </a> <a href="https://github.com/cso6005/JavaReview"> <img src="https://img.shields.io/badge/📝 백엔드 수업 실습-181717?style=flat&logo=G&logoColor=white"> </a> 
+  
+  2022.05.09 - 2022.11.11
+  
+**1) '백엔드' 개발 교육 및 '웹 애플리케이션' 프로젝트 진행**
+  
+   Java, SQL, JDBC, JPA, Servlet&JSP 기반 웹 애플리케이션 개발
+  
+   Flask, HTML/CSS 기반 웹 애플리케이션 개발
+  
+   Spring/SpringBoot, HTML/CSS/JS 기반의 웹 애플리케이션개발
+  
+
+**2) '데이터 엔지니어링' 교육 및 실습 진행**   
+  Python, Numpy, Pandas, mathplotlib, ELK 를 이용하여, 빅데이터 파이프라인 구축
+  
+  머신러닝, 딥러닝 모델 분석 및 AI 모델을 활용하여 웹 애플리케이션 프로젝트 진행
+  
+
+  
 
 ## **🌻Project**
-<a href="https://github.com/cso6005/ToyProject/blob/master/5_ETL_project/contents.md" style="text-decoration: none;"> (4인팀 프로젝트   2022.09 - 2022.11) ETL을 적용한 covid-19 현황 안내 웹 애플리케이션 </a>
+<a href="https://github.com/cso6005/ToyProject/blob/master/5_ETL_project/contents.md" style="text-decoration: none;"> 🔍 (4인팀  2022.09 - 2022.11) ETL을 적용한 covid-19 현황 안내 웹 애플리케이션 </a>
   
-<a href="https://github.com/cso6005/Deep-Story"> (4인팀 프로젝트 2022.10.13 ~ 2022.11.11) 딥러닝 GAN 을 이용한 그림 일기 블로그 웹 애플리케이션 </a>
+<a href="https://github.com/cso6005/Deep-Story"> 🎨 (4인팀 2022.10.13 ~ 2022.11.11) 딥러닝 GAN 을 이용한 그림 일기 블로그 웹 애플리케이션 </a>
   
-<a href="https://github.com/cso6005/Star"> (2인팀 프로젝트 2022.12.05 ~ 2023.02.10) ElasticStack 을 이용한 별 관측 정보 제공 웹 애플리케이션 </a>
+<a href="https://github.com/cso6005/Star"> ⭐ (2인팀 2022.12.05 ~ 2023.02.10) ElasticStack 을 이용한 별 관측 정보 제공 웹 애플리케이션 </a>
   
-<a href="#"> (개인 프로젝트 2023.02 - ) Kafka를 이용한 챗봇 서비스 </a>
+<a href="#"> 📱 (개인 2023.02 - ) Kafka를 이용한 챗봇 서비스 </a>
   
-<a href="https://github.com/cso6005/ToyProject"> 기타 토이 프로젝트 </a>
+<a href="https://github.com/cso6005/ToyProject"> 🌿기타 토이 프로젝트 </a>
 
 
 ## 🥇Awards
