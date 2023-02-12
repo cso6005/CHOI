@@ -33,7 +33,7 @@ electronic and electrical engineering
   
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"> 
 
-**Back - 세부기술**
+**Back - Details**
   
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"> <img src="https://img.shields.io/badge/REST API-5A29E4?style=flat&logo=REST API&logoColor=white">  <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white"> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON Web Tokens&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white">
   
@@ -90,7 +90,7 @@ electronic and electrical engineering
  
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Agile-E20074?style=flat&logo=A&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira Software&logoColor=white"> <img src="https://img.shields.io/badge/Zenhub backlog-0865AD?style=flat&logo=GitHub&logoColor=white"> 
 
- <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
 
@@ -106,9 +106,8 @@ electronic and electrical engineering
 
 ## 📱Social
 <a href="https://cso6005.tistory.com"> <img src="https://img.shields.io/badge/🤍 Tistory-000000?style=flat&logo=tistory&logoColor=white"> </a>
-<img src="https://img.shields.io/badge/🤍 Blog-F08080?style=flat&logo=&logoColor=white">
-<img src="https://img.shields.io/badge/cssoyoung67@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white">
-
+<a href="https://blog.naver.com/cso6005"> <img src="https://img.shields.io/badge/NeverBlog-03C75A?style=flat&logo=Naver&logoColor=white"> </a>
+<a href="cssoyoung67@gmail.com"> <img src="https://img.shields.io/badge/cssoyoung67@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"> </a>
+  
 ----------
 
