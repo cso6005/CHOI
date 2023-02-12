@@ -107,7 +107,7 @@ electronic and electrical engineering
 ## 📱Social
 <a href="https://cso6005.tistory.com"> <img src="https://img.shields.io/badge/🤍 Tistory-000000?style=flat&logo=tistory&logoColor=white"> </a>
 <a href="https://blog.naver.com/cso6005"> <img src="https://img.shields.io/badge/NeverBlog-03C75A?style=flat&logo=Naver&logoColor=white"> </a>
-<a href="https://cssoyoung67@gmail.com"> <img src="https://img.shields.io/badge/cssoyoung67@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"> </a>
+<a href="https://cssoyoung67@gmail.com">
   
 ----------
 
