@@ -33,9 +33,7 @@ electronic and electrical engineering
   
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"> <img src="https://img.shields.io/badge/REST API-5A29E4?style=flat&logo=REST API&logoColor=white">  <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white"> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON Web Tokens&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white">
   
-<img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat&logo=Apache Maven&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"> <img src="https://img.shields.io/badge/JDBC-007396?style=flat&logo=A&logoColor=white"> <img src="https://img.shields.io/badge/JPA-007396?style=flat&logo=A&logoColor=white">
-  
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white">
+<img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat&logo=Apache Maven&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"> <img src="https://img.shields.io/badge/JDBC-007396?style=flat&logo=A&logoColor=white"> <img src="https://img.shields.io/badge/JPA-007396?style=flat&logo=A&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white">
   
 **Front**
   
@@ -92,11 +90,19 @@ electronic and electrical engineering
 ---------
 
 ## **🌻Project**
+<a href="https://github.com/cso6005/ToyProject/blob/master/5_ETL_project/contents.md"> (4인팀 프로젝트   2022.09 - 2022.11) ETL을 적용한 covid-19 현황 안내 웹 애플리케이션 </a>
+  
+<a href="https://github.com/cso6005/Deep-Story"> (4인팀 프로젝트 2022.10.13 ~ 2022.11.11) 딥러닝 GAN 을 이용한 그림 일기 블로그 웹 애플리케이션 </a>
+  
+<a href="https://github.com/cso6005/Star"> (2인팀 프로젝트 2022.12.05 ~ 2023.02.10) ElasticStack 을 이용한 별 관측 정보 제공 웹 애플리케이션 </a>
+  
+<a href="#"> (개인 프로젝트 2023.02 - ) Kafka를 이용한 챗봇 서비스 </a>
+  
 
----------
+
 ## 🥇Awards
 
-----------
+
 
 ## 📕 TIL 
 <img src="https://img.shields.io/badge/GitHub TIL-181717?style=flat&logo=GitHub&logoColor=white"> </a>
