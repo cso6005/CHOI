@@ -98,6 +98,7 @@ electronic and electrical engineering
   
 <a href="#"> (개인 프로젝트 2023.02 - ) Kafka를 이용한 챗봇 서비스 </a>
   
+<a href="https://github.com/cso6005/ToyProject"> 기타 토이 프로젝트 </a>
 
 
 ## 🥇Awards
