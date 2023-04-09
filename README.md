@@ -50,29 +50,24 @@ electronic and electrical engineering
   
 **DB&DataSearchEngine**
   
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/DBeaver-A5915F?style=flat&logo=DBeaver&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white">
   
-<img src="https://img.shields.io/badge/Elastic-005571?style=flat&logo=Elastic&logoColor=white"> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=ElasticSearch&logoColor=white"> <img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=Logstash&logoColor=white"> <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white">  <img src="https://img.shields.io/badge/JavaRestHighLevelClient-005571?style=flat&logo=A&logoColor=white"> 
+<img src="https://img.shields.io/badge/ElasticStack-005571?style=flat&logo=Elastic&logoColor=white"> <img src="https://img.shields.io/badge/JavaRestHighLevelClient-005571?style=flat&logo=A&logoColor=white"> 
   
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=Apache Kafka&logoColor=white">
 <img src="https://img.shields.io/badge/Zookeeper-231F20?style=flat&logo=A&logoColor=white">
 
   
-**IDE**
+**IDE&Tool**
   
-<img src="https://img.shields.io/badge/STS-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/VSC-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"> 
+<img src="https://img.shields.io/badge/STS-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/VSC-007ACC?style=flat&logo=VisualStudioCode&logoColor=white">  <img src="https://img.shields.io/badge/DBeaver-A5915F?style=flat&logo=DBeaver&logoColor=white"> <img src="https://img.shields.io/badge/Putty-283274?style=flat&logo=Putty&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"> 
  
   
 **BigData&AI**
   
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/matplotlib-004088?style=flat&logo=matplotlib&logoColor=white"> <img src="https://img.shields.io/badge/Seaborn-EF2D5E?style=flat&logo=Seaborn&logoColor=white">
   
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
-  
-  
-**기타**
-  
-<img src="https://img.shields.io/badge/Putty-283274?style=flat&logo=Putty&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
   
   
  **🌱 Cowork Tool & Skill 🌱**
