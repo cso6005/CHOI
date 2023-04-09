@@ -34,11 +34,11 @@ electronic and electrical engineering
   
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"> <img src="https://img.shields.io/badge/REST API-5A29E4?style=flat&logo=REST API&logoColor=white">  <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white"> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON Web Tokens&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white">
   
-<img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat&logo=Apache Maven&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"> <img src="https://img.shields.io/badge/JDBC-007396?style=flat&logo=A&logoColor=white"> <img src="https://img.shields.io/badge/JPA-007396?style=flat&logo=A&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white">
+<img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat&logo=Apache Maven&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white">  <img src="https://img.shields.io/badge/JPA-007396?style=flat&logo=A&logoColor=white"> 
   
 **Front**
   
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-1DAFB?style=flat&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=D3.js&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"> ![](https://img.shields.io/badge/JSP-007396?style=flat&logo=OpenJDK&logoColor=white") ![](https://img.shields.io/badge/Servlet-007396?style=flat&logo=OpenJDK&logoColor=white") 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-1DAFB?style=flat&logo=React&logoColor=white">  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=D3.js&logoColor=white"> 
 
 **OS**
 
@@ -50,7 +50,7 @@ electronic and electrical engineering
   
 **DB&DataSearchEngine**
   
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpMyAdmin&logoColor=white"> <img src="https://img.shields.io/badge/DBeaver-A5915F?style=flat&logo=DBeaver&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/DBeaver-A5915F?style=flat&logo=DBeaver&logoColor=white">
   
 <img src="https://img.shields.io/badge/Elastic-005571?style=flat&logo=Elastic&logoColor=white"> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=ElasticSearch&logoColor=white"> <img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=Logstash&logoColor=white"> <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white">  <img src="https://img.shields.io/badge/JavaRestHighLevelClient-005571?style=flat&logo=A&logoColor=white"> 
   
@@ -60,33 +60,27 @@ electronic and electrical engineering
   
 **IDE**
   
-<img src="https://img.shields.io/badge/STS-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/VSC-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=white">
+<img src="https://img.shields.io/badge/STS-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/VSC-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"> 
  
-  
   
 **BigData&AI**
   
-<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/matplotlib-004088?style=flat&logo=matplotlib&logoColor=white"> <img src="https://img.shields.io/badge/Seaborn-EF2D5E?style=flat&logo=Seaborn&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white"> 
+<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/matplotlib-004088?style=flat&logo=matplotlib&logoColor=white"> <img src="https://img.shields.io/badge/Seaborn-EF2D5E?style=flat&logo=Seaborn&logoColor=white">
   
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
   
   
 **기타**
   
-<img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=FileZilla&logoColor=white"> <img src="https://img.shields.io/badge/Putty-283274?style=flat&logo=Putty&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
+<img src="https://img.shields.io/badge/Putty-283274?style=flat&logo=Putty&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
   
-<img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=RaspberryPi&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"> <img src="https://img.shields.io/badge/AutoCad-0696D7?style=flat&logo=Autodesk&logoColor=white"> <img src="https://img.shields.io/badge/TCad-F08080?style=flat&logo=&logoColor=white"> 
-  
- 
   
  **🌱 Cowork Tool & Skill 🌱**
  
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Agile-E20074?style=flat&logo=A&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira Software&logoColor=white"> <img src="https://img.shields.io/badge/Zenhub backlog-0865AD?style=flat&logo=GitHub&logoColor=white"> 
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Agile-E20074?style=flat&logo=A&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira Software&logoColor=white"> 
 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
-
 
   
 ## **🎈 Activity**
@@ -125,14 +119,13 @@ IT 전문가로 진로를 희망하는 청년 장애인 교육생을 위해 교�
   
 
 ## **🌻Project**
-  
-<a href="https://github.com/cso6005/ETL_CovidWeb_project/blob/master/README.md" style="text-decoration: none;"> 🔍 (4인팀  2022.09.14 - 2022.09.16) ETL을 적용한 covid-19 현황 안내 웹 애플리케이션 </a>
+
+<a href="https://github.com/cso6005/Star"> ⭐ (2인팀 2022.12.05 ~ 2023.02.10) ElasticStack 을 이용한 별 관측 정보 제공 웹 애플리케이션 </a>
   
 <a href="https://github.com/cso6005/Deep-Story"> 🎨 (4인팀 2022.10.13 ~ 2022.11.11) 딥러닝 GAN 을 이용한 그림 일기 블로그 웹 애플리케이션 </a>
   
-<a href="https://github.com/cso6005/Star"> ⭐ (2인팀 2022.12.05 ~ 2023.02.10) ElasticStack 을 이용한 별 관측 정보 제공 웹 애플리케이션 </a>
+<a href="https://github.com/cso6005/ETL_CovidWeb_project/blob/master/README.md" style="text-decoration: none;"> 🔍 (4인팀  2022.09.14 - 2022.09.16) ETL을 적용한 covid-19 현황 안내 웹 애플리케이션 </a>
     
-<a href="https://github.com/cso6005/ToyProject"> 🌿기타 토이 프로젝트 </a>
 
 
 ## 🥇Awards
