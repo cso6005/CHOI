@@ -30,12 +30,6 @@ electronic and electrical engineering
 ![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white") <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"> 
 
-**Back - Details**
-  
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"> <img src="https://img.shields.io/badge/REST API-5A29E4?style=flat&logo=REST API&logoColor=white"> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON Web Tokens&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white">
-  
-<img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat&logo=Apache Maven&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white">  <img src="https://img.shields.io/badge/JPA-007396?style=flat&logo=A&logoColor=white"> 
-  
 **Front**
   
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-1DAFB?style=flat&logo=React&logoColor=white">  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=D3.js&logoColor=white"> 
@@ -53,21 +47,15 @@ electronic and electrical engineering
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white">
   
 <img src="https://img.shields.io/badge/ElasticStack-005571?style=flat&logo=Elastic&logoColor=white"> <img src="https://img.shields.io/badge/JavaRestHighLevelClient-005571?style=flat&logo=A&logoColor=white"> 
-  
-<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=Apache Kafka&logoColor=white">
-<img src="https://img.shields.io/badge/Zookeeper-231F20?style=flat&logo=A&logoColor=white">
 
-  
 **IDE&Tool**
   
-<img src="https://img.shields.io/badge/STS-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/VSC-007ACC?style=flat&logo=VisualStudioCode&logoColor=white">  <img src="https://img.shields.io/badge/DBeaver-A5915F?style=flat&logo=DBeaver&logoColor=white"> <img src="https://img.shields.io/badge/Putty-283274?style=flat&logo=Putty&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"> 
+<img src="https://img.shields.io/badge/STS-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/VSC-007ACC?style=flat&logo=VisualStudioCode&logoColor=white">  <img src="https://img.shields.io/badge/DBeaver-A5915F?style=flat&logo=DBeaver&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"> 
  
   
 **BigData&AI**
   
-<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/matplotlib-004088?style=flat&logo=matplotlib&logoColor=white"> <img src="https://img.shields.io/badge/Seaborn-EF2D5E?style=flat&logo=Seaborn&logoColor=white">
-  
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/matplotlib-004088?style=flat&logo=matplotlib&logoColor=white"> 
   
   
  **🌱 Cowork Tool & Skill 🌱**
