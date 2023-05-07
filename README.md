@@ -105,7 +105,7 @@ IT 전문가로 진로를 희망하는 청년 장애인 교육생을 위해 교�
 
 <a href="https://github.com/cso6005/Star"> ⭐ (2인팀 2022.12.05 ~ 2023.02.10) ElasticStack 을 이용한 별 관측 정보 제공 웹 애플리케이션 </a>
   
-<a href="https://github.com/cso6005/Deep-Story"> 🎨 (4인팀 2022.10.13 ~ 2022.11.11) 딥러닝 GAN 을 이용한 그림 일기 블로그 웹 애플리케이션 </a>
+<a href="https://github.com/cso6005/Deep-Story"> 🎨 (4인팀 2022.10.13 ~ 2022.11.11) 딥러닝 Stable Diffusion 을 이용한 그림 일기 블로그 웹 애플리케이션 </a>
   
 <a href="https://github.com/cso6005/ETL_CovidWeb_project/blob/master/README.md" style="text-decoration: none;"> 🔍 (4인팀  2022.09.14 - 2022.09.16) ETL을 적용한 covid-19 현황 안내 웹 애플리케이션 </a>
     
