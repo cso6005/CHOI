@@ -34,25 +34,15 @@ electronic and electrical engineering
   
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-1DAFB?style=flat&logo=React&logoColor=white">  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=D3.js&logoColor=white"> 
 
-**OS**
-
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"> 
-
 **Cloud**
   
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white"> <img src="https://img.shields.io/badge/AWS elasticache-008DE4?style=flat&logo=AWS elasticache&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white">  <img src="https://img.shields.io/badge/Amazon SDK-007AAC?style=flat&logo=Amazon SDK&logoColor=white"> 
   
 **DB&DataSearchEngine**
   
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white">
-  
-<img src="https://img.shields.io/badge/ElasticStack-005571?style=flat&logo=Elastic&logoColor=white"> <img src="https://img.shields.io/badge/JavaRestHighLevelClient-005571?style=flat&logo=A&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/ElasticStack-005571?style=flat&logo=Elastic&logoColor=white"> <img src="https://img.shields.io/badge/JavaRestHighLevelClient-005571?style=flat&logo=A&logoColor=white"> 
 
-**IDE&Tool**
-  
-<img src="https://img.shields.io/badge/STS-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/VSC-007ACC?style=flat&logo=VisualStudioCode&logoColor=white">  <img src="https://img.shields.io/badge/DBeaver-A5915F?style=flat&logo=DBeaver&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"> 
  
-  
 **BigData&AI**
   
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/matplotlib-004088?style=flat&logo=matplotlib&logoColor=white"> 
@@ -60,9 +50,7 @@ electronic and electrical engineering
   
  **🌱 Cowork Tool & Skill 🌱**
  
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Agile-E20074?style=flat&logo=A&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira Software&logoColor=white"> 
-
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Agile-E20074?style=flat&logo=A&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira Software&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
 
   
@@ -75,40 +63,6 @@ electronic and electrical engineering
 SK 행복한 학교재단 주관 'Open SIAT Mate' 에 멘토로 참여함으로써,
   
 IT 전문가로 진로를 희망하는 청년 장애인 교육생을 위해 교육 멘토링을 진행.
-
-## 📖 Class
-
-### 플레이데이터 빅데이터 엔지니어 부트 캠프 
-  
-<a href="https://cso6005.tistory.com/category/AI_STUDY"> <img src="https://img.shields.io/badge/📝 공부 기록-181717?style=flat&logo=G&logoColor=white"> </a> <a href="https://github.com/cso6005/Python_AI_study"> <img src="https://img.shields.io/badge/📝 AI 수업 실습-181717?style=flat&logo=G&logoColor=white"> </a> <a href="https://github.com/cso6005/JavaReview"> <img src="https://img.shields.io/badge/📝 백엔드 수업 실습-181717?style=flat&logo=G&logoColor=white"> </a> 
-  
-  2022.05.09 - 2022.11.11
-  
-**1) '백엔드' 개발 교육 및 '웹 애플리케이션' 프로젝트 진행**
-  
-   Java, SQL, JDBC, JPA, Servlet&JSP 기반 웹 애플리케이션 개발
-  
-   Flask, HTML/CSS 기반 웹 애플리케이션 개발
-  
-   Spring/SpringBoot, HTML/CSS/JS 기반의 웹 애플리케이션개발
-  
-
-**2) '데이터 엔지니어링' 교육 및 실습 진행**   
-  Python, Numpy, Pandas, mathplotlib, ELK 를 이용하여, 빅데이터 파이프라인 구축
-  
-  머신러닝, 딥러닝 모델 분석 및 AI 모델을 활용하여 웹 애플리케이션 프로젝트 진행
-  
-
-  
-
-## **🌻Project**
-
-<a href="https://github.com/cso6005/Star"> ⭐ (2인팀 2022.12.05 ~ 2023.02.10) ElasticStack 을 이용한 별 관측 정보 제공 웹 애플리케이션 </a>
-  
-<a href="https://github.com/cso6005/Deep-Story"> 🎨 (4인팀 2022.10.13 ~ 2022.11.11) 딥러닝 Stable Diffusion 을 이용한 그림 일기 블로그 웹 애플리케이션 </a>
-  
-<a href="https://github.com/cso6005/ETL_CovidWeb_project/blob/master/README.md" style="text-decoration: none;"> 🔍 (4인팀  2022.09.14 - 2022.09.16) ETL을 적용한 covid-19 현황 안내 웹 애플리케이션 </a>
-    
 
 
 ## 🥇Awards
