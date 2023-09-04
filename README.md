@@ -32,7 +32,7 @@ electronic and electrical engineering
 
 **Front**
   
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-1DAFB?style=flat&logo=React&logoColor=white">  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=D3.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-1DAFB?style=flat&logo=React&logoColor=white">
 
 **Cloud**
   
