@@ -21,39 +21,6 @@
 electronic and electrical engineering
   
   
-## **📒STACKS**
-
-### **🌱 Skill & Platform 🌱**
-  
-**Back**
-  
-![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white") <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"> 
-
-**Front**
-  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-1DAFB?style=flat&logo=React&logoColor=white">
-
-**Cloud**
-  
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white"> <img src="https://img.shields.io/badge/AWS elasticache-008DE4?style=flat&logo=AWS elasticache&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white">  <img src="https://img.shields.io/badge/Amazon SDK-007AAC?style=flat&logo=Amazon SDK&logoColor=white"> 
-  
-**DB&DataSearchEngine**
-  
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/ElasticStack-005571?style=flat&logo=Elastic&logoColor=white"> <img src="https://img.shields.io/badge/JavaRestHighLevelClient-005571?style=flat&logo=A&logoColor=white"> 
-
- 
-**BigData&AI**
-  
-<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/matplotlib-004088?style=flat&logo=matplotlib&logoColor=white"> 
-  
-  
- **🌱 Cowork Tool & Skill 🌱**
- 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Agile-E20074?style=flat&logo=A&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira Software&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
-
-  
 ## **🎈 Activity**
   
 ### Open SIAT Mate 교육 멘토
@@ -63,14 +30,6 @@ electronic and electrical engineering
 SK 행복한 학교재단 주관 'Open SIAT Mate' 에 멘토로 참여함으로써,
   
 IT 전문가로 진로를 희망하는 청년 장애인 교육생을 위해 교육 멘토링을 진행.
-
-### 플레이데이터 빅데이터 엔지니어 부트 캠프 
-
-  2022.05.09 - 2022.11.11
-  
-'백엔드' 개발 교육 및 '웹 애플리케이션' 프로젝트 진행
-
-'데이터 엔지니어링' 교육 및 실습 진행  
 
 
 ## 🥇Awards
@@ -88,12 +47,6 @@ IT 전문가로 진로를 희망하는 청년 장애인 교육생을 위해 교�
   한국정보기술학회 Proceedings of KIIT Conference Vol.2020 No.10 [2020]
 
   주저자 역할 저자순위 1위 /총 6명 참여
-  
-## 📕 TIL 
-<a href="https://github.com/cso6005/TIL-Troubleshooting"> <img src="https://img.shields.io/badge/GitHub TIL-181717?style=flat&logo=GitHub&logoColor=white"> </a>
-<a href="https://cso6005.tistory.com"> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"> </a>
-<a href="https://blog.naver.com/cso6005"> <img src="https://img.shields.io/badge/NeverBlog-03C75A?style=flat&logo=Naver&logoColor=white"> </a>
-<a href="https://cso6005.tistory.com">
   
 ----------
 
