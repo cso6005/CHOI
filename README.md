@@ -5,9 +5,9 @@
   
 🌏 I live in Seoul, South Korea.
   
-💻 I'm a software engineer interested in **web backend.**
-    
-🌱 I am mainly studying **JAVA, SpringBoot.**
+💻 I'm a software engineer.
+
+🌱 I'm mainly interested in backend and data-related technologies.
 
 🚀 I always aim to improve my skills and challenge meaningful experiences.
   
